@@ -1,18 +1,27 @@
 ﻿<Properties StartupConfiguration="{8EEEF5C9-3531-4208-ACF9-25DA30C6CC18}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Csharp-final-MarianaVilela/Program.cs">
     <Files>
-      <File FileName="Csharp-final-MarianaVilela/Program.cs" Line="9" Column="47" />
+      <File FileName="Csharp-final-MarianaVilela/Program.cs" Line="19" Column="25" />
+      <File FileName="Csharp-final-MarianaVilela/Person.cs" Line="27" Column="68" />
+      <File FileName="Csharp-final-MarianaVilela/IUpdatable.cs" Line="6" Column="28" />
+      <File FileName="Csharp-final-MarianaVilela/Student.cs" Line="15" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Csharp-final-MarianaVilela" expanded="True" selected="True" />
+          <Node name="Csharp-final-MarianaVilela" expanded="True">
+            <Node name="Csharp-final-MarianaVilela" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Csharp-final-MarianaVilela FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Csharp-final-MarianaVilela PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Csharp-final-MarianaVilela/Student.cs" line="12" offsetX="367" offsetY="165" expression="Name" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

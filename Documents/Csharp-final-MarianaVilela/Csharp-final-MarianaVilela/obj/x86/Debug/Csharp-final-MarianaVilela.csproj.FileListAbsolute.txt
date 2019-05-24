@@ -1,0 +1,9 @@
+/Users/mariana.vilela/Documents/Csharp-final-MarianaVilela/Csharp-final-MarianaVilela/obj/x86/Debug/Csharp-final-MarianaVilela.csprojAssemblyReference.cache
+/Users/mariana.vilela/Documents/Csharp-final-MarianaVilela/Csharp-final-MarianaVilela/obj/x86/Debug/Csharp-final-MarianaVilela.csproj.CoreCompileInputs.cache
+/Users/mariana.vilela/Documents/Csharp-final-MarianaVilela/Csharp-final-MarianaVilela/bin/Debug/Csharp-final-MarianaVilela.exe
+/Users/mariana.vilela/Documents/Csharp-final-MarianaVilela/Csharp-final-MarianaVilela/bin/Debug/Csharp-final-MarianaVilela.pdb
+/Users/mariana.vilela/Documents/Csharp-final-MarianaVilela/Csharp-final-MarianaVilela/bin/Debug/Newtonsoft.Json.dll
+/Users/mariana.vilela/Documents/Csharp-final-MarianaVilela/Csharp-final-MarianaVilela/bin/Debug/Newtonsoft.Json.xml
+/Users/mariana.vilela/Documents/Csharp-final-MarianaVilela/Csharp-final-MarianaVilela/obj/x86/Debug/Csharp-final-MarianaVilela.csproj.CopyComplete
+/Users/mariana.vilela/Documents/Csharp-final-MarianaVilela/Csharp-final-MarianaVilela/obj/x86/Debug/Csharp-final-MarianaVilela.exe
+/Users/mariana.vilela/Documents/Csharp-final-MarianaVilela/Csharp-final-MarianaVilela/obj/x86/Debug/Csharp-final-MarianaVilela.pdb
